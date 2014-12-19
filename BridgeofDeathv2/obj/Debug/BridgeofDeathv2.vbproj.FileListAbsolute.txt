@@ -1,0 +1,11 @@
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\bin\Debug\BridgeofDeathv2.exe.config
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\bin\Debug\BridgeofDeathv2.exe
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\bin\Debug\BridgeofDeathv2.pdb
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\bin\Debug\BridgeofDeathv2.xml
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.vbprojResolveAssemblyReference.cache
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.Form1.resources
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.Resources.resources
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.vbproj.GenerateResource.Cache
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.exe
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.xml
+C:\Users\Josh Greene\Documents\GitHub\BridgeofDeathv2\BridgeofDeathv2\obj\Debug\BridgeofDeathv2.pdb
